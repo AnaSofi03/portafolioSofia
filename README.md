@@ -90,17 +90,6 @@ npm install
 npm run dev
 ```
 
----
-
-## 📂 Proyectos Destacados
-
-- 🛍️ Sistema de Gestión de Ventas para Tienda de Ropa
-- 🐶 Sistema de Gestión para Peluquería Canina
-- 👨‍⚕️ Sistema de Gestión de Turnos Médicos
-- 💪 Sistema de Administración para Gimnasio
-- 🌐 Portfolio Personal
-
----
 
 ## 📫 Contacto
 
