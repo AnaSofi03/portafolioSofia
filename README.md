@@ -1,16 +1,125 @@
-# React + Vite
+<h1 align="center">💻 Portfolio Personal</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h3 align="center">
+Sofía Guerrero | Desarrolladora Full Stack en formación
+</h3>
 
-Currently, two official plugins are available:
+<p align="center">
+  Estudiante de la Tecnicatura Universitaria en Programación (UTN-FRT)
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 👋 Sobre mí
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Soy una desarrolladora Full Stack en formación apasionada por la tecnología, el aprendizaje continuo y la resolución de problemas.
 
-## Expanding the ESLint configuration
+Disfruto crear aplicaciones web combinando diseño, lógica de negocio y bases de datos para desarrollar soluciones funcionales y escalables.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Actualmente continúo fortaleciendo mis conocimientos en desarrollo web, bases de datos y buenas prácticas de programación.
+
+---
+
+## 🚀 Tecnologías
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,nodejs,express,mysql,git,github,vscode" />
+
+</p>
+
+---
+
+## ✨ Características del Portfolio
+
+✔️ Diseño moderno y responsive
+
+✔️ Presentación profesional
+
+✔️ Sección de habilidades técnicas
+
+✔️ Proyectos destacados
+
+✔️ Información de contacto
+
+✔️ Navegación intuitiva
+
+✔️ Animaciones e interacción visual
+
+---
+
+## 📸 Vista Previa
+
+<p align="center">
+  <img src="./public/preview.png" alt="Portfolio Preview" width="800"/>
+</p>
+
+---
+
+## 🌐 Demo
+
+🔗 **Portfolio Online**
+
+[Ver Portfolio](AQUÍ_TU_URL)
+
+---
+
+## ⚙️ Instalación
+
+### Clonar repositorio
+
+```bash
+git clone https://github.com/AnaSofi03/portafolioSofia.git
+```
+
+### Ingresar al proyecto
+
+```bash
+cd portafolioSofia
+```
+
+### Instalar dependencias
+
+```bash
+npm install
+```
+
+### Ejecutar proyecto
+
+```bash
+npm run dev
+```
+
+---
+
+## 📂 Proyectos Destacados
+
+- 🛍️ Sistema de Gestión de Ventas para Tienda de Ropa
+- 🐶 Sistema de Gestión para Peluquería Canina
+- 👨‍⚕️ Sistema de Gestión de Turnos Médicos
+- 💪 Sistema de Administración para Gimnasio
+- 🌐 Portfolio Personal
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+
+<a href="https://github.com/AnaSofi03">
+GitHub
+</a>
+
+•
+
+<a href="https://www.linkedin.com/in/ana-sofia-guerrero-16764625b/">
+LinkedIn
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ Gracias por visitar mi portfolio
+</p>
