@@ -51,7 +51,7 @@ Actualmente continúo fortaleciendo mis conocimientos en desarrollo web, bases d
 ## 📸 Vista Previa
 
 <p align="center">
-  <img src="./public/preview.png" alt="Portfolio Preview" width="800"/>
+  <img src="./public/imagenPortafolio.png" alt="Portfolio Preview" width="800"/>
 </p>
 
 ---
