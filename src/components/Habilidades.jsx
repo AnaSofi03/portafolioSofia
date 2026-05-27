@@ -1,42 +1,65 @@
-export const Habilidades = () => {
-  return (
-    <div className="relative h-screen bg-slate-900 flex flex-col items-center justify-start pt-32 px-10">
+import e from 'cors';
+import '../styles/habilidades.css'
+export const Habilidades= () =>{
+  return(
+   
+    <section className='habilidades' id='habilidades'>
 
-      <h1 className="text-4xl text-white">
-        &lt;Habilidades/&gt;
-      </h1>
+    <h2>Habilidades & Tecnologias</h2>
 
-      <div className="w-16 h-[2px] bg-white/20 mt-3"></div>
+<div className='skills-container'>
 
-      {/* CONTENEDOR */}
-      <div className="flex gap-16 mt-12">
+  <div className='skill-card'>
+    <h3>Frontend</h3>
 
-        {/* FRONTEND */}
-        <div>
-          <h2 className="text-white text-lg mb-4">Frontend</h2>
+  <div className='tags'>
+    <span>HTML5</span>
+    <span>CSS3</span>
+    <span>JavaScript</span>
+    <span>React</span>
+    <span>Bootstrap</span>
+    <span>Tailwind</span>
+  </div>
+</div>
 
-          <div className="flex flex-wrap gap-3">
-            <span className="skill">HTML</span>
-            <span className="skill">CSS</span>
-            <span className="skill">JavaScript</span>
-            <span className="skill">React</span>
-            <span className="skill">Tailwind</span>
-          </div>
-        </div>
+<div className='skill-card'>
+  <h3>Backend</h3>
 
-        {/* BACKEND */}
-        <div>
-          <h2 className="text-white text-lg mb-4">Backend</h2>
+  <div className='tags'>
+    <span>Node.js</span>
+    <span>Express</span>
+    <span>MySQL</span>
+    <span>REST API</span>
+    <span>C#</span>
+    <span>.Net Core</span>
+    <span>ASP.NET</span>
+  </div>
+</div>
 
-          <div className="flex flex-wrap gap-3">
-            <span className="skill">Node.js</span>
-            <span className="skill">Express</span>
-            <span className="skill">MongoDB</span>
-            <span className="skill">MySQL</span>
-          </div>
-        </div>
+<div className='skill-card'>
+  <h3>Bases de Datos</h3>
+  <div className='tags'>
+    <span>MySQL</span>
+    <span>SQL Server</span>
+  </div>
+</div>
+<div className='skill-card'>
+  <h3>Herramientas</h3>
 
-      </div>
-    </div>
+  <div className='tags'>
+    <span>Git</span>
+    <span>GitHub</span>
+    <span>Jira</span>
+    <span>Figma</span>
+  </div>
+
+</div>
+</div>
+
+    </section>
+
+
+
   );
-};
+}
+

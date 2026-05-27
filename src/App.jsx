@@ -3,6 +3,7 @@ import './App.css'
 import { NavBar } from './components/NavBar'
 import { Inicio } from './components/Inicio'
 import { SobreMi } from './components/SobreMi'
+import { Habilidades } from './components/Habilidades'
 
 
 function App() {
@@ -18,7 +19,7 @@ function App() {
         <SobreMi />
       </section>
       
-      
+<Habilidades />  
 
     </div>
   )
